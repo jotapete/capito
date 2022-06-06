@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CAPITO 
+title: TOPACIO 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Colección PCI y TO
+tagline: Colección TO y PCI
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CAPITO es un ensayo sobre contenidos y navegación sobre PCI y ATO"
+description: "TOPACIO es un ensayo sobre contenidos y navegación sobre TO y PCI"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: jotapete
 
