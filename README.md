@@ -1,4 +1,4 @@
-# collectionbuilder-gh
+# [collectionbuilder-gh](https://jotapete.github.io/capito/)
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
