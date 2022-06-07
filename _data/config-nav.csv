@@ -1,10 +1,11 @@
 display_name,stub,dropdown_parent
 Inicio,/
-Colecciones,
 Explorar,/browse.html
+Colecciones,
 Temas,/subjects.html
 Lugares,/locations.html
+Fechas,/data.html
 Mapa,/map.html
 Línea de tiempo,/timeline.html
-Cronología,/data.html
+
 Acerca de,/about.html
